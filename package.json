@@ -1,0 +1,41 @@
+{
+  "name": "jill-atkerson-real-estate",
+  "version": "1.0.0",
+  "description": "Web app for searching homes available using the API from a local MLS so Jill Atkerson can simply send her clients a search link without worry of losing them to Zillow.",
+  "main": "index.html",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkeatkerson/real-estate-webapp.git"
+  },
+  "keywords": [
+    "Real",
+    "estate",
+    "search",
+    "web",
+    "app",
+    "api",
+    "colorado",
+    "springs",
+    "real",
+    "estate",
+    "jill",
+    "atkerson"
+  ],
+  "author": "Burke Atkerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burkeatkerson/real-estate-webapp/issues"
+  },
+  "homepage": "https://github.com/burkeatkerson/real-estate-webapp#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "tailwindcss": "^3.3.2",
+    "tailwindcss-animated": "^1.0.1"
+  },
+  "dependencies": {
+    "tw-elements": "^1.0.0-beta2"
+  }
+}
